@@ -1,0 +1,15 @@
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenAmir/OddorEven/bin/Debug/net6.0/minichallenge#6
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenAmir/OddorEven/bin/Debug/net6.0/minichallenge#6.deps.json
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenAmir/OddorEven/bin/Debug/net6.0/minichallenge#6.runtimeconfig.json
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenAmir/OddorEven/bin/Debug/net6.0/minichallenge#6.dll
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenAmir/OddorEven/bin/Debug/net6.0/minichallenge#6.pdb
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenAmir/OddorEven/obj/Debug/net6.0/minichallenge#6.csproj.AssemblyReference.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenAmir/OddorEven/obj/Debug/net6.0/minichallenge#6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenAmir/OddorEven/obj/Debug/net6.0/minichallenge#6.AssemblyInfoInputs.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenAmir/OddorEven/obj/Debug/net6.0/minichallenge#6.AssemblyInfo.cs
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenAmir/OddorEven/obj/Debug/net6.0/minichallenge#6.csproj.CoreCompileInputs.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenAmir/OddorEven/obj/Debug/net6.0/minichallenge#6.dll
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenAmir/OddorEven/obj/Debug/net6.0/refint/minichallenge#6.dll
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenAmir/OddorEven/obj/Debug/net6.0/minichallenge#6.pdb
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenAmir/OddorEven/obj/Debug/net6.0/minichallenge#6.genruntimeconfig.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenAmir/OddorEven/obj/Debug/net6.0/ref/minichallenge#6.dll
